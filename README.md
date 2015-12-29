@@ -1,4 +1,4 @@
 kz5q-scripts
 ============
 
-Ham radio-related scripts
+This repository has been deprecated...please use the new repo at https://github.com/bakoontz/ag7kz-scripts
